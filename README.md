@@ -1,2 +1,2 @@
 # html-rocketseat
-Curso de Html da RS
+Meu primeiro curso de HTML na rocketseat
